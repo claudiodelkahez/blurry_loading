@@ -33,6 +33,6 @@ body {
 }
 
 .loading-text {
-    font-size: 50px;
-    color: #fff;
+    font-size: 20px;
+    color: rgb(180, 180, 180);
 }
